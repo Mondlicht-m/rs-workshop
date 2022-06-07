@@ -1,4 +1,8 @@
 
 Some text for header
+
 Changes from master
+
 NEW CHANGES UUUUF
+
+Text from master NEW CHANGED
